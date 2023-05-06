@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+li {
+  list-style: none
+}
+
+img {
+  vertical-align: top;
+  border: none
+}
+
+@font-face {
+  font-family: "MiSans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./font/MiSans-Regular.subset.woff2') format('woff2');
+
+}
+
+
+
